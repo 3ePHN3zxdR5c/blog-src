@@ -4,6 +4,7 @@ script: bundle exec jekyll build
 deploy:
   provider: pages
   repo: elu00/elu00.github.io
+  github_token: $GITHUB_TOKEN
   skip_cleanup: true
   local_dir: _site
   keep_history: true

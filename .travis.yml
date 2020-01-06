@@ -1,6 +1,6 @@
 language: ruby
 cache: bundler
-script: bundle exec jekyll build
+script: bundle exec JEKYLL_ENV=production jekyll build
 deploy:
   provider: pages
   repo: elu00/elu00.github.io

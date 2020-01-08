@@ -194,7 +194,7 @@ Furthermore, this minimum is exactly $|\overrightarrow{v}|$.
 Note that since all the components of these vectors are independent, this is equivalent to minimizing the component-wise sums of $\overrightarrow{x}$ and $\overrightarrow{y}$ $n$ times.
 By the results of the previous lemma, each component has a unique solution under these constraints, where the total sum is the sum of the absolute values of the components of $\overrightarrow{v}$, which is exactly it's $L_1$ norm.
 
-Again, we stress that this decomposition is the "obvious one"; for example, the decomposition of $\begin{pmatrix} 1 \\ -2 \\ -3 \\ 4 \end{pmatrix}$ most people would likely pick is $\begin{pmatrix} 1 \\ 0 \\ 0 \\ 4\end{pmatrix} - \begin{pmatrix} 0 \\ -2 \\ -3 \\ 0 \end{pmatrix}$, and actual construction of the decomposition is not particularly difficult. The utility of this result comes from it's guarantee of *uniqueness*, which will come up in our ensuing application of it.
+Again, we stress that this decomposition is the "obvious one"; for example, the decomposition of $\begin{pmatrix} 1 \\ -2 \\ -3 \\ 4 \end{pmatrix}$ most people would likely pick is $\begin{pmatrix} 1 \\ 0 \\ 0 \\ 4\end{pmatrix} - \begin{pmatrix} 0 \\ 2 \\ 3 \\ 0 \end{pmatrix}$, and actual construction of the decomposition is not particularly difficult. The utility of this result comes from it's guarantee of *uniqueness*, which will come up in our ensuing application of it.
 
 ## Proof (main result, continued)
 

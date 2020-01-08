@@ -69,6 +69,7 @@ Although
 ## VR Theater
 
 ## Geometric Algebra for Computer Graphics
+A really neat 
 
 ## Technical Papers Session: Maps and Operators
 

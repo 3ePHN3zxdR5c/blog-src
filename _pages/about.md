@@ -15,6 +15,7 @@ Here's a short list of some stuff I've done:
 # Handouts 
 That I'm too lazy to turn into a post
 - [Smooth Bump Partitions and Partitions of Unity](../assets/MSAnalysisSeminar.pdf) 
+
 # Projects
 ## viz.ml
 - [HackCMU 2018] An interactive dimensionality reduction visualization engine for introspection of high dimensional data sets.

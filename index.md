@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 ---
 Hi! 
-I'm a student in Mathematical Sciences and a member of the [Geometry Collective](http://geometry.cs.cmu.edu/) at Carnegie Mellon University.
-Broadly speaking, I'm interested in problems that happen at the intersection of mathematics and computer science, whether that happens to manifest itself within the fields of geometry processing, finance, or competitive mathematics.
+I'm an aspiring mathematical analyst and a senior undergraduate in Mathematical Sciences at Carnegie Mellon University, as well as a member of the [Geometry Collective](http://geometry.cs.cmu.edu/) at CMU.
+Broadly speaking, my research interests lie in the field of "applied analysis"-that is, the application of analytical tools and ideas to other branches of mathematics and computer science, ranging from differential geometry and the calculus of variations to the geometry processing and computer graphics.
 I also like playing Tetris.
 
 This site exists both in the hopes that someone will find the content here useful and to serve as some sort of documentation for myself; hopefully both of those goals are achieved to some extent or another.
@@ -14,7 +14,7 @@ Here's a short list of some stuff I've done:
 # Research
 ## Surfactant Dynamics from the Arnold Perspective 
 - [Paper](https://www.doi.org/10.1137/20S1378144)
-- [Poster](surfactants/.pdf)
+- [Poster](assets/surfactants.pdf)
 
 ## Central Limit Theorems for Compound Paths on the 2-Dimensional Lattice
 - [Paper](https://arxiv.org/pdf/1906.10645.pdf)

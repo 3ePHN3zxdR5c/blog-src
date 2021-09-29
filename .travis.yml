@@ -1,6 +1,7 @@
 language: ruby
 cache: bundler
 script: bundle exec jekyll build
+dist: focal
 deploy:
   provider: pages
   repo: elu00/elu00.github.io

@@ -1,13 +1,14 @@
 language: ruby
 cache: bundler
 script: bundle exec jekyll build
+os: linux
 dist: focal
 deploy:
+  strategy: git
   provider: pages
   repo: elu00/elu00.github.io
   github_token: $GITHUB_TOKEN
   target_branch: master
-  skip_cleanup: true
   local_dir: _site
   keep_history: true
   on:

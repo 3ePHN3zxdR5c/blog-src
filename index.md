@@ -11,7 +11,6 @@ This site exists both in the hopes that someone will find the content here usefu
 
 Here's a short list of some stuff I've done:
 ## Research
-![image-left](/assets/images/surfactants-thumb.png){: .align-left}
 ### Surfactant Dynamics from the Arnold Perspective 
 Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
 [SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)

@@ -1,7 +1,7 @@
 main:
     - title: "About"
       url: /index.html
-    - title: "Posts"
+    - title: "Blog"
       url: /year-archive/
     - title: "Resume"
       url: /assets/cv.pdf

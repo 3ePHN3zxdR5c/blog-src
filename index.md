@@ -2,6 +2,7 @@
 title: "About Me"
 layout: single
 author_profile: true
+classes: wide
 ---
 Hi! 
 I'm an aspiring mathematical analyst and a senior undergraduate in Mathematical Sciences at Carnegie Mellon University, as well as a member of the [Geometry Collective](http://geometry.cs.cmu.edu/) at CMU.
@@ -12,18 +13,18 @@ This site exists both in the hopes that someone will find the content here usefu
 Here's a short list of some stuff I've done:
 ## Research
 ### Surfactant Dynamics from the Arnold Perspective 
+<!--![image-left](/assets/images/surfactants-thumb.png){: .align-left .img_drop}-->
 Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
-[SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)
-
-- [Paper](https://www.doi.org/10.1137/20S1378144)
-- [Poster](assets/surfactants.pdf)
+[SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)\
+[Paper](https://www.doi.org/10.1137/20S1378144){: .btn .btn--info}
+[Poster](assets/surfactants.pdf){: .btn .btn--info}
 
 ### Central Limit Theorems for Compound Paths on the 2-Dimensional Lattice
 E. Fang, J. Jenkins, Z. Lee, D. Li, Ethan Lu, S. Miller, D. Salgado, J. Siktar\
 [Fibonacci Quarterly, vol 58, no. 3](http://ftp.math.utah.edu/pub/tex/bib/toc/fibquart.html)\
-Invited talk at the [19th International Conference on Fibonacci Numbers](pmf.unsa.ba/fibonacci19/index.php)
-- [Paper](https://arxiv.org/pdf/1906.10645.pdf)
-- [Slides](assets/ZeckendorfSlides.pdf)
+Invited talk at the [19th International Conference on Fibonacci Numbers](pmf.unsa.ba/fibonacci19/index.php)\
+[Paper](https://arxiv.org/pdf/1906.10645.pdf){: .btn .btn--info}
+[Slides](assets/ZeckendorfSlides.pdf){: .btn .btn--info}
 
 ## Handouts 
 Various material/writeups that I've collected over the years.

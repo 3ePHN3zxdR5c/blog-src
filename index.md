@@ -22,7 +22,7 @@ Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
 ### Central Limit Theorems for Compound Paths on the 2-Dimensional Lattice
 E. Fang, J. Jenkins, Z. Lee, D. Li, Ethan Lu, S. Miller, D. Salgado, J. Siktar\
 [Fibonacci Quarterly, vol 58, no. 3](http://ftp.math.utah.edu/pub/tex/bib/toc/fibquart.html)\
-Invited talk at the [19th International Conference on Fibonacci Numbers](pmf.unsa.ba/fibonacci19/index.php)\
+Invited talk at the [19th International Conference on Fibonacci Numbers](http://pmf.unsa.ba/fibonacci19/index.php)\
 [Paper](https://arxiv.org/pdf/1906.10645.pdf){: .btn .btn--info}
 [Slides](assets/ZeckendorfSlides.pdf){: .btn .btn--info}
 
@@ -30,6 +30,7 @@ Invited talk at the [19th International Conference on Fibonacci Numbers](pmf.uns
 Various material/writeups that I've collected over the years.
 - [Recitation Notes for 21-237 (Honors Algebra)](assets/recitations.pdf) 
 - [Smooth Bump Partitions and Partitions of Unity](assets/MSAnalysisSeminar.pdf) 
+- [A quick guide to setting up {% katex %}\LaTeX{% endkatex %}](/LatexQuickStart/) 
 
 ## Projects
 ### viz.ml

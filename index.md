@@ -18,6 +18,7 @@ Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
 [SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)\
 [Paper](https://www.doi.org/10.1137/20S1378144){: .btn .btn--info}
 [Poster](assets/surfactants.pdf){: .btn .btn--info}
+[Slides](assets/SurfactantSlides.pdf){: .btn .btn--info}
 
 ### Central Limit Theorems for Compound Paths on the 2-Dimensional Lattice
 E. Fang, J. Jenkins, Z. Lee, D. Li, Ethan Lu, S. Miller, D. Salgado, J. Siktar\

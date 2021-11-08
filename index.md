@@ -16,6 +16,7 @@ Here's a short list of some stuff I've done:
 <!--![image-left](/assets/images/surfactants-thumb.png){: .align-left .img_drop}-->
 Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
 [SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)\
+Invited talk at [New Connections in Math 2021](https://math.duke.edu/research/research-grants/research-training-group/undergrad/undergrad-symposium21)\
 [Paper](https://www.doi.org/10.1137/20S1378144){: .btn .btn--info}
 [Poster](assets/surfactants.pdf){: .btn .btn--info}
 [Slides](assets/SurfactantSlides.pdf){: .btn .btn--info}

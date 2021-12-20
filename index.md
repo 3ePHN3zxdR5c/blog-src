@@ -30,7 +30,9 @@ Invited talk at the [19th International Conference on Fibonacci Numbers](http://
 
 ## Handouts 
 Various material/writeups that I've collected over the years.
-- [Recitation Notes for 21-237 (Honors Algebra)](assets/recitations.pdf) 
+- [Notes on Symmetric Hyperbolic Systems](assets/SymmetricHyperbolicNotes.pdf) 
+- [Recitation Notes for 21-237/238 (Honors Algebra I/II)](assets/recitations.pdf) 
+- [Notes from 80-524: The Topology of Learning](assets/TopoNotes.pdf) 
 - [Smooth Bump Partitions and Partitions of Unity](assets/MSAnalysisSeminar.pdf) 
 - [A quick guide to setting up {% katex %}\LaTeX{% endkatex %}](/LatexQuickStart/) 
 

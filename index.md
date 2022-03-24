@@ -16,6 +16,7 @@ Here's a short list of some stuff I've done:
 <!--![image-left](/assets/images/surfactants-thumb.png){: .align-left .img_drop}-->
 Ethan Lu, J. Jenkins, C. Lee, Y. Liu, D. Reed.\
 [SIAM Undergraduate Research Online, vol. 14](https://www.siam.org/publications/siuro/volume-14)\
+Invited talk at [New Connections in Math 2021](https://math.duke.edu/research/research-grants/research-training-group/undergrad/undergrad-symposium21)\
 [Paper](https://www.doi.org/10.1137/20S1378144){: .btn .btn--info}
 [Poster](assets/surfactants.pdf){: .btn .btn--info}
 [Slides](assets/SurfactantSlides.pdf){: .btn .btn--info}
@@ -29,7 +30,9 @@ Invited talk at the [19th International Conference on Fibonacci Numbers](http://
 
 ## Handouts 
 Various material/writeups that I've collected over the years.
-- [Recitation Notes for 21-237 (Honors Algebra)](assets/recitations.pdf) 
+- [Notes on Symmetric Hyperbolic Systems](assets/SymmetricHyperbolicNotes.pdf) 
+- [Recitation Notes for 21-237/238 (Honors Algebra I/II)](assets/recitations.pdf) 
+- [Notes from 80-524: The Topology of Learning](assets/TopoNotes.pdf) 
 - [Smooth Bump Partitions and Partitions of Unity](assets/MSAnalysisSeminar.pdf) 
 - [A quick guide to setting up {% katex %}\LaTeX{% endkatex %}](/LatexQuickStart/) 
 

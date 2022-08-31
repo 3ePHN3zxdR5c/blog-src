@@ -6,6 +6,7 @@ classes: wide
 ---
 Hi!
 I'm an aspiring mathematical analyst and PhD student at Stanford, where I am generously supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+
 Previously, I was an undergraduate at Carnegie Mellon University, where I completed the honors degree program under the supervision of [Gautam Iyer](https://www.math.cmu.edu/~gautam/sj/index.html).
 As an undergraduate, I also worked with [Ian Tice](https://www.math.cmu.edu/~iantice/index.html) on various problems in fluids and with [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/) on problems in discrete differential geometry as a member of the [Geometry Collective](http://geometry.cs.cmu.edu/).
 

@@ -4,11 +4,14 @@ layout: single
 author_profile: true
 classes: wide
 ---
-Hi! 
-I'm an aspiring mathematical analyst and a senior undergraduate in Mathematical Sciences at Carnegie Mellon University, as well as a member of the [Geometry Collective](http://geometry.cs.cmu.edu/) at CMU.
+Hi!
+I'm an aspiring mathematical analyst and PhD student at Stanford, where I am generously supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+Previously, I was an undergraduate at Carnegie Mellon University, where I completed the honors degree program under the supervision of [Gautam Iyer](https://www.math.cmu.edu/~gautam/sj/index.html).
+As an undergraduate, I also worked with [Ian Tice](https://www.math.cmu.edu/~iantice/index.html) on various problems in fluids and with [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/) on problems in discrete differential geometry as a member of the [Geometry Collective](http://geometry.cs.cmu.edu/).
+
 Broadly speaking, my research interests lie in the field of "applied analysis"-that is, the application of analytical tools and ideas to other branches of mathematics and computer science, ranging from differential geometry and the calculus of variations to geometry processing and computer graphics.
 
-This site exists both in the hopes that someone will find the content here useful and to serve as some sort of documentation for myself; hopefully both of those goals are achieved to some extent or another.
+This site exists both in the hopes that someone will find the content here useful and to serve as some sort of documentation for myself; hopefully both of those goals are achieved to some extent.
 
 Here's a short list of some stuff I've done:
 ## Research
@@ -40,7 +43,7 @@ Various material/writeups that I've collected over the years.
 ### viz.ml
 [HackCMU 2018] An interactive dimensionality reduction visualization engine for introspection of high dimensional data sets.
 - [Github](https://github.com/TheNumbat/viz.ml)
-- [Blog Post](../viz.ml) 
+- [Blog Post](../viz.ml)
 - [Download](https://github.com/TheNumbat/viz.ml/releases)
 
 ### PWMDuino
@@ -50,5 +53,5 @@ An Arduino-based 8 channel PWM Controller
 - [Github Repo](https://github.com/elu00/PWMduino)
 
 ## The site
-This site is powered by [Jekyll](https://jekyllrb.com/), [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), [{% katex %}\KaTeX{% endkatex %}](https://katex.org/), [Travis](https://travis-ci.org/), and [Github Pages](https://pages.github.com/).  
-If you're interested, you can see the source for the entire setup [here](https://github.com/elu00/blog-src). 
+This site is powered by [Jekyll](https://jekyllrb.com/), [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), [{% katex %}\KaTeX{% endkatex %}](https://katex.org/), [Travis](https://travis-ci.org/), and [Github Pages](https://pages.github.com/). 
+If you're interested, you can see the source for the entire setup [here](https://github.com/elu00/blog-src).
